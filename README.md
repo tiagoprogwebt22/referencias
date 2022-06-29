@@ -6,7 +6,7 @@
 
 ## Cursos
 - [Adobe XD](https://www.sp.senac.br/cursos-livres/curso-de-adobe-xd-prototipos-para-interface-web-e-mobile)
-- [PHP com MySQL](PHP com MySQL)
+- [PHP com MySQL](https://www.sp.senac.br/cursos-livres/php-com-mysql)
 - [ReactJS](https://www.sp.senac.br/cursos-livres/curso-de-reactjs-interfaces-front-end)
 - [Guanabara](https://www.youtube.com/channel/UCrWvhVmt0Qac3HgsjQK62FQ)
 - [Alura](https://www.alura.com.br/)
